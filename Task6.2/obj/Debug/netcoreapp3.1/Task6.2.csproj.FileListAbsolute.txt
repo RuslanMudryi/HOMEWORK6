@@ -1,0 +1,13 @@
+C:\Users\Ruslanchik\source\repos\Task5.2\bin\Debug\netcoreapp3.1\Task6.2.exe
+C:\Users\Ruslanchik\source\repos\Task5.2\bin\Debug\netcoreapp3.1\Task6.2.deps.json
+C:\Users\Ruslanchik\source\repos\Task5.2\bin\Debug\netcoreapp3.1\Task6.2.runtimeconfig.json
+C:\Users\Ruslanchik\source\repos\Task5.2\bin\Debug\netcoreapp3.1\Task6.2.runtimeconfig.dev.json
+C:\Users\Ruslanchik\source\repos\Task5.2\bin\Debug\netcoreapp3.1\Task6.2.dll
+C:\Users\Ruslanchik\source\repos\Task5.2\bin\Debug\netcoreapp3.1\Task6.2.pdb
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.csprojAssemblyReference.cache
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.csproj.CoreCompileInputs.cache
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.AssemblyInfoInputs.cache
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.AssemblyInfo.cs
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.dll
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.pdb
+C:\Users\Ruslanchik\source\repos\Task5.2\obj\Debug\netcoreapp3.1\Task6.2.genruntimeconfig.cache
